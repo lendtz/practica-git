@@ -1,2 +1,0 @@
-# practica-git
-Aprendiendo git
